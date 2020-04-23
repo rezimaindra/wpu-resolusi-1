@@ -1,0 +1,5 @@
+halo pak, salam kenal nama saya rezi dari padang
+
+resolusi saya :
+- membuat websitemenggunakan framework javacript laravel
+- saya kuliah ditelkom university
